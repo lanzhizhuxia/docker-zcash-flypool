@@ -1,0 +1,7 @@
+version: '2.0'
+
+services:
+    flypool-miner:
+        build: ./
+        environment:
+            - username=t1KvTqVPGLkwVgP6nhBipNHbinj92F8oGrs.woker2
