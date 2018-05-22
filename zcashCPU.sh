@@ -12,4 +12,5 @@ echo $numsockets Sockets
 numthreads=$(($cpusnum - 1))
 echo $numthreads Zcash Threads
 
-./nheqminer_cpu_xenoncat -l eu1-zcash.flypool.org:3333 -u $username -t $numthreads
+
+./nheqminer_cpu_xenoncat -l eu1-zcash.flypool.org:13333 -u t1SkpGyaDmsPhRHpwqUoNi2no6hgoYQFqKR.docker-myokeraws-xq
